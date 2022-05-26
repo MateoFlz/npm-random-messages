@@ -9,7 +9,19 @@
   "author": "Mateo Florez",
   "license": "MIT",
   "bin": {
-    "nom" : "bin/global.js"
+    "nom": "bin/global.js"
   },
-  "proferGlobal": true
+  "proferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateoFlz/npm-random-messages.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/MateoFlz/npm-random-messages/issues"
+  },
+  "homepage": "https://github.com/MateoFlz/npm-random-messages#readme"
 }
